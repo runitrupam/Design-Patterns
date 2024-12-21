@@ -1,1 +1,1 @@
- **Factory, Builder, Adapter, Singleton, Observer Design Princples**
+ **Factory, Builder, Adapter, Singleton, Observer Design Pattern**
