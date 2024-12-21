@@ -1,0 +1,40 @@
+Car: 4 wheels, with engine
+Bycicle: 2 wheels, no engine
+Bike: 2 wheels, with engine
+self.ip = None, self.url = http://www.google.com, self.header = None, self.method = get
+self.ip = 192.11.1.1, self.url = http://www.google.com, self.header = None, self.method = get
+
+
+
+<__main__.Singleton object at 0x7bc95f20f6d0> s1 is s2 True
+
+
+
+called 1st
+called 2nd
+called 1st
+called 2nd
+<__main__.Singleton object at 0x7bc95f20f640> s1 is s2 True
+
+
+
+abc == abc True
+abc is abc True
+
+
+
+[1, 2, 3] == [1, 2, 3] True
+[1, 2, 3] is [1, 2, 3] False
+
+
+
+The subject = Hindustan is updated with the state = State1
+The subject = TOI is updated with the state = State1
+
+The subject = TOI is updated with the state = State2
+
+
+
+Device = Televison is plugged in the power = 220V
+
+
